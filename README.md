@@ -1,4 +1,9 @@
-## Bienvenidos a mi perfil, soy Raul Vargas y esta es mi vida. 🌱
+
+<h1 align="center"><b>Hola, yo soy Raul Vargas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+
+
+<br>
 
 <!--
 **rullvgs/rullvgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
