@@ -10,7 +10,7 @@ Soy originario de Oaxaca, México. Reciéntemente terminé mi carrera en Ingenie
 - **Diplomado en Ciencia de Datos en Inteligencia Artificial en la Agricultura.**  
   Universidad Autónoma Chapingo, México.
   
-  !GitHub Streak
+ !GitHub Streak
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=rullvgs&show_icons=true&theme=gotham#gh-dark-mode-only" />
