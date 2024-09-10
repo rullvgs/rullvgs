@@ -5,7 +5,11 @@
 ## 🌍 About Me
 Soy originario de Oaxaca, México. Reciéntemente terminé mi carrera en Ingeniería Mecatrónica Agrícola. Cuento con habilidades en ciencia de datos, machine learning y deep learning. Mi objetivo es avanzar en el campo de la tecnología de la información, contribuyendo con mis conocimientos para desarrollar soluciones innovadoras y enfrentar desafíos tecnológicos de manera creativa y eficiente.
 
-
+- **Recién egresado de Ingeniería Mecatrónica Agrícola**  
+  Universidad Autónoma Chapingo, México.
+- **Diplomado en Ciencia de Datos en Inteligencia Artificial en la Agricultura.**  
+  Universidad Autónoma Chapingo, México.
+  
 </div>
 
 
